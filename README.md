@@ -1,2 +1,4 @@
-# Quiz
-Quiz regarding java script to test one's knowledge
+# JS Quiz Game
+javascript Quiz Game with Local Storage of Scores
+
+
